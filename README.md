@@ -1,6 +1,6 @@
 # Gerenciamento de Estado com Redux
 
-Aplicação desenvovlida para aprendizado de gerenciamento de estado com Redux
+Aplicação desenvolvida para aprendizado do gerenciamento de estado com Redux
 
 ## Pacotes instalados
 
@@ -10,3 +10,14 @@ Aplicação desenvovlida para aprendizado de gerenciamento de estado com Redux
 - yarn add immer (ajuda a evitar a verbosidade na alteração de estados, ou informações imutáveis)
 
 - yarn add redux-devtools-extension
+
+## Utilizando aplicação
+
+Para utilizar a aplicação inicie o servidor com o comando:
+
+yarn server
+
+
+## Redux Saga
+
+- Middleware para controle de estados assíncronos
